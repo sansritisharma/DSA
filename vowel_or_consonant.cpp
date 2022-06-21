@@ -12,7 +12,7 @@ int main(){
         cout<<"vowel";
     }
     else{
-        cout<<"constant";
+        cout<<"consonant";
     }
     return 0;
  }
